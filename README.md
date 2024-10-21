@@ -1,3 +1,3 @@
 # Gordon Zhou's Resume
 
-[View it here!]([https://link-url-here.org](https://gordnzhou.github.io/resume/))
+[View it here!](https://gordnzhou.github.io/resume/)
